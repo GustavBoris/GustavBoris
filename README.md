@@ -7,15 +7,23 @@ Olá, me chamo Gustav Boris
 📚Qualificações/Cursos:
 
 • Web Desing – SENAI Roberto Simonsen - São Paulo/SP – 2018;
-• Desenvolvimento WEB Responsivo – Easycomp Plus – Atibaia/SP 
-• 2020;
+
+• Desenvolvimento WEB Responsivo – Easycomp Plus – Atibaia/SP - 2020;
+
 • Python e Orientação a Objetos - Alura – Atualmente;
+
 • Inglês para Computação e T.I - Inglês S/A – 2019;
+
 • Inglês Avançado - Inglês S/A – 2019;
+
 • Conversação em inglês para fluência - Inglês SA – 2019;
+
 • Solid Works - SENAI Roberto Simonsen - São Paulo/SP – 2019;
+
 • EXCEL 2019 – SENAC - São Paulo/SP – 2020;
+
 • Marketing Digital - Easycomp Plus – Atibaia/SP – 2021;
+
 • Google Ads - Easycomp Plus – Atibaia/SP – 2021
 
 🏢Histórico profissional:
