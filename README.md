@@ -1,6 +1,7 @@
 Olá, me chamo Gustav Boris
 
 👨🏽‍🎓Formação: Bacharel em Ciência da Computação
+  Pós Graduação em Data Analytics - Atualmente
 
 💻Objetivo: Me tornar um Programador/Desenvolvedor
 
@@ -10,7 +11,7 @@ Olá, me chamo Gustav Boris
 
 • Desenvolvimento WEB Responsivo – Easycomp Plus – Atibaia/SP - 2020;
 
-• Python e Orientação a Objetos - Alura – Atualmente;
+• Python e Orientação a Objetos - Alura;
 
 • Inglês para Computação e T.I - Inglês S/A – 2019;
 
@@ -28,16 +29,21 @@ Olá, me chamo Gustav Boris
 
 🏢Histórico profissional:
 
-Conai Equipamentos Industriais Ltda. 
-Novembro 2020 – Junho 2022
+Alcon Engenharia de Sistemas Ltda                                                                   09/2022 – Atualmente
+Analista de Sistemas Web - Webmaster
+•	Desenvolvimento e planejamento do site da empresa, gerando novos contatos e maior visibilidade da companhia digitalmente;
+•	Desenvolvimento e analise de métricas do Website e Redes sociais, criando métricas para tomada de decisões resultando em maior visibilidade da marca;
+•	Trabalhando também no marketing da empresa, desenvolvendo e orientando a criação de layouts para publicações, design de containers, elaboração e participação de feiras e eventos além de ter a participação como tradutor para equipe estrangeira (Português para Inglês);
+•	Auxiliando e posteriormente fazendo a Gestão da equipe e tarefas de Marketing.
 
-Neste trabalho tive a oportunidade de fazer parte da equipe de uma
-das maiores empresas de Combutão Industrial do Brasil, onde ajudei
-a desenvolver a área de TI, Marketing e Marketing Digital B2B
-(Business-to-business). Atuando diretamente com o
-desenvolvimento de Web Sites pelo WordPress, em conjunto com as
-plataformas do Google (Google Ads, Google Analytics e Google Meu
-Negócio), trabalhando com Feiras, Eventos e E-mail Marketing.
+
+Conai Equipamentos Industriais Ltda                
+11/2020 – 06/2022
+Auxiliar de T.I / Marketing
+•	Ajudei a desenvolver a área de TI, Marketing e Marketing Digital B2B (Business-to-business);
+•	Atuei diretamente com o desenvolvimento e criação de WebSites pelo WordPress, em conjunto com as plataformas do Google (Google Ads, Google Analytics e Google Meu Negócio) ocasionando no período de 1 ano um aumento nas vendas em torno de 4x;
+•	Além disso atuei na elaboração de Feiras, Eventos e E-mail Marketing.
+
 
 
 
